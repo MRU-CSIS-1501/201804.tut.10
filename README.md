@@ -19,6 +19,6 @@ It seems like a beast, but you can tame it.
 
 ## YOUR SKILL DRILLS
 
-The following is due by 9AM on November 15th:
+The following is due by 9AM on November 22nd:
 
 - tut-10 : joesephircle
